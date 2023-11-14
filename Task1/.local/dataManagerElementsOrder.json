@@ -53,7 +53,9 @@
     {
       "Path": "LogOut.xaml",
       "SortBy": 0,
-      "VariablesSectionElementsOrder": [],
+      "VariablesSectionElementsOrder": [
+        "logOutExist&Sequence_1"
+      ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
@@ -74,6 +76,14 @@
         "password",
         "email"
       ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "test.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
     }
