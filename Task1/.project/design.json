@@ -1,0 +1,12 @@
+{
+  "Tags": [
+    {
+      "Key": "RPA"
+    },
+    {
+      "Key": "Training"
+    }
+  ],
+  "SeparateRuntimeDependencies": true,
+  "IncludeSources": true
+}
